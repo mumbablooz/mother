@@ -1,0 +1,3 @@
+[submodule "daughter"]
+	path = daughter
+	url = https://github.com/mumbablooz/daughter
